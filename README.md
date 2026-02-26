@@ -14,5 +14,8 @@ Préparer l’environnement Git/VS Code et initialiser un repo local.
 Ajout d’une section pour améliorer la documentation du projet.
 
 
+Ligne commit 1
+
+
 ## Auteur
 Sabrine essadeq 
